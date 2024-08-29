@@ -8,9 +8,9 @@
 
 # networks
 # create a network 'guacnetwork_compose' in mode 'bridged'
-networks:
-  guacnetwork_compose:
-    driver: bridge
+#networks:
+#  guacnetwork_compose:
+ #   driver: bridge
 
 # services
 services:
