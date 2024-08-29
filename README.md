@@ -21,7 +21,7 @@ docker compose up -d
 
 Your guacamole server should now be available at `https://ip of your server:8080/`.
 #### The initial login to the guacamole webinterface is:
-> Username: guacadmin
+> Username: guacadmin <br>
 > Password: guacadmin
 ## Details
 To understand some details let's take a closer look at parts of the `docker-compose.yml` file:
