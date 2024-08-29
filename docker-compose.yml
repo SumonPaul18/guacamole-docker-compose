@@ -1,11 +1,4 @@
-
-# The initial login to the guacamole webinterface is:
-#
-#     Username: guacadmin
-#     Password: guacadmin
-#
 #version: '3.0'
-
 # networks
 # create a network 'guacnetwork_compose' in mode 'bridged'
 #networks:
